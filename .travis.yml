@@ -9,7 +9,7 @@ install:
   - sudo apt -y install python3-distutils
   - sudo apt -y install python3-pip
   - sudo apt install -y git
-  - git clone https://https://github.com/SevaUstinov/pythonProject.git
+  - git clone https://github.com/SevaUstinov/pythonProject1.git
   - python3 -m site
   - ls -l
   - cd buildozer
